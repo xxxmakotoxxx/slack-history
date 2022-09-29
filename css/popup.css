@@ -1,0 +1,16 @@
+body {
+  width: 500px;
+  max-height: 800px;
+}
+h2.title {
+  text-align: center;
+  margin: 3px 0;
+}
+div.slack_watch_list {
+  margin: 10px 0;
+  overflow: scroll;
+}
+
+div.slack_watch_list ul li:hover {
+  background-color: lightblue;
+}
