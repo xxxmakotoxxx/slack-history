@@ -1,5 +1,10 @@
 # slack-history
-Save your Slack browsing history.
+Save to history with a simple operation (double-click) on the Slack web app.
+The saved history is displayed in a pop-up window and can be viewed in Slack by clicking on the link.
+This saves you the trouble of having to search for comments each time.
+
+# Google Chrome Extension
+awaiting review
 
 ## precautions
 1. Only the browser version of Slack is supported.
